@@ -13,3 +13,12 @@ h2 {
     border-bottom: black;
     margin-bottom: 10px;
 }
+
+form label {
+    display: block;
+    width: 100%;
+}
+
+form input {
+    margin-bottom: 10px;
+}
