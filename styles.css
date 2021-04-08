@@ -16,6 +16,9 @@ h2 {
 
 form label {
     display: block;
+    font-size: 20px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 100%;
 }
 
