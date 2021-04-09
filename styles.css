@@ -22,7 +22,7 @@ form label {
    /* width: 100%;*/
 }
 
-form input {
+form input[type=text] {
     margin-bottom: 10px;
     width: 100%;
 }
